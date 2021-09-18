@@ -70,7 +70,7 @@
 						<div class="top-left">
 							<ul class="list-main">
 								<li><i class="ti-headphone-alt"></i> +502 4147 1477</li>
-								<li><i class="ti-email"></i> support@shophub.com</li>
+								<li><i class="ti-email"></i> soporte</li>
 							</ul>
 						</div>
 						<!--/ End Top Left -->
@@ -79,8 +79,8 @@
 						<!-- Top Right -->
 						<div class="right-content">
 							<ul class="list-main">
-								<li><i class="ti-location-pin"></i> Store location</li>
-								<li><i class="ti-alarm-clock"></i> <a href="#">Daily deal</a></li>
+								<li><i class="ti-location-pin"></i> Ubicacion </li>
+								<!-- <li><i class="ti-alarm-clock"></i> <a href="#">Daily deal</a></li>-->
 								<li><i class="ti-power-off"></i><a href="login.html#">Iniciar Sesion</a></li>
 							</ul>
 						</div>
@@ -189,11 +189,8 @@
 					<div class="row">
 						<div class="col-lg-3">
 							<div class="all-category">
-								<h3 class="cat-heading"><i class="fa fa-bars" aria-hidden="true"></i>CATEGORIES</h3>
+								<h3 class="cat-heading"><i class="fa fa-bars" aria-hidden="true"></i>CATEGORIAS</h3>
 								<ul class="main-category">
-									<li><a href="#">accessories</a></li>
-									<li><a href="#">top 100 offer</a></li>
-									<li><a href="#">sunglass</a></li>
 									<li><a href="#">Cable</a></li>
 									<li><a href="#">Lámparas</a></li>
 									<li><a href="#">Tubería</a></li>
@@ -211,14 +208,14 @@
 											<ul class="nav main-menu menu navbar-nav">
 													<li class="active"><a href="#">Inicio</a></li>
 													<li><a href="#">Producto</a></li>												
-													<li><a href="#">Service</a></li>
+													<!-- / <li><a href="#">Service</a></li>-->
 													<li><a href="#">Mi Compra<i class="ti-angle-down"></i><span class="new">New</span></a>
 														<ul class="dropdown">
 															<li><a href="cart.html">Cart</a></li>
 															<li><a href="checkout.html">Checkout</a></li>
 														</ul>
 													</li>
-													<li><a href="#">Pages</a></li>									
+													<!--<li><a href="#">Pages</a></li> -->									
 													<li><a href="#">Blog<i class="ti-angle-down"></i></a>
 														<ul class="dropdown">
 															<li><a href="blog-single-sidebar.html">Blog Single Sidebar</a></li>
@@ -251,11 +248,11 @@
 							<div class="row">
 								<div class="col-lg-7 col-12">
 									<div class="hero-text">
-										<h1><span>UP TO 50% OFF </span>Shirt For Man</h1>
-										<p>Maboriosam in a nesciung eget magnae <br> dapibus disting tloctio in the find it pereri <br> odiy maboriosm.</p>
-										<div class="button">
-											<a href="#" class="btn">Shop Now!</a>
-										</div>
+										<h1><!--/ colocar descuento --><span></span>Interruptores</h1>
+										<p><!--esto será una descripcion --></p>
+										<!--/ <div class="button">
+											<a href="#" class="btn"> un boton de comprar ahora</a>
+										</div> 
 									</div>
 								</div>
 							</div>
@@ -263,7 +260,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div>-->
 		<!--/ End Single Slider -->
 	</section>
 	<!--/ End Slider Area -->
